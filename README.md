@@ -4,7 +4,7 @@
 --We will do anything To give you the best script or Gui/Hub
 --We Will Make Mobile Look Like Pc Script with Op Features
 
-game:GetService("StarterGui"):SetCore("SendNotification",{ 	Title = "UCSHubV1 ",  	
+game:GetService("StarterGui"):SetCore("SendNotification",{ 	Title = "|ToxicWare|ErroR ",  	
 Text = "Made By: ToxicWare",
 Icon = "rbxthumb://type=Asset&id=9863339777&w=150&h=150",
 Duration = 8
